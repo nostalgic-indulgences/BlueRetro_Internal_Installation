@@ -10,9 +10,9 @@ https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
 </br>Q2 - BSS123 / BSS138 / A2SHB N-Channel MOSFET
 
 **@ManCloud Current Trigger Pinout**
-</br>J1  - 3.3V/5.0V
-</br>J1.1- Controller 3.3V/5.0V
-</br>J2  - 3.3V/5.0V Port Detection Sense Signal
-</br>J2.1- GND
+</br>J1   - 3.3V/5.0V
+</br>J1.1 - Controller 3.3V/5.0V
+</br>J2   - 3.3V/5.0V Port Detection Sense Signal
+</br>J2.1 - GND
 </br>*** 5.0V Consoles only!!! 
 </br>*** Bridge J2 & J2.1 with a 200kΩ 0805 SMD Resistor to create voltage divider to output 3.3V sense signal to ESP32
