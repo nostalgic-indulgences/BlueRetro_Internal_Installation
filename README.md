@@ -3,13 +3,13 @@
 Actual implementation videos can be found on the following YouTube channel:-
 https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
 
-@ManCloud Current Trigger Component Listing
+**@ManCloud Current Trigger Component Listing**
 </br>R1 - 4.7kΩ 0805 SMD Resistor
 </br>R2 - 100kΩ 0805 SMD Resistor
 </br>Q1 - YJS2301A DUAL P-Channel MOSFET (Lowest forward voltage drop I could find)
 </br>Q2 - BSS123 / BSS138 / A2SHB N-Channel MOSFET
 
-@ManCloud Current Trigger Pinout
+**@ManCloud Current Trigger Pinout**
 </br>J1   - 3.3V/5.0V
 </br>J1.1 - Controller 3.3V/5.0V
 </br>J2   - 3.3V/5.0V Port Detection Sense Signal
