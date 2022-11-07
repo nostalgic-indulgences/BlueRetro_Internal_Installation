@@ -4,7 +4,7 @@ Actual implementation videos can be found on the following YouTube channel:-
 https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
 
 @ManCloud Current Trigger Component Listing
-/nR1 - 4.7kΩ 0805 SMD Resistor
+</br> R1 - 4.7kΩ 0805 SMD Resistor
 R2 - 100kΩ 0805 SMD Resistor
 Q1 - YJS2301A DUAL P-Channel MOSFET (Lowest forward voltage drop I could find)
 Q2 - BSS123 / BSS138 / A2SHB N-Channel MOSFET
