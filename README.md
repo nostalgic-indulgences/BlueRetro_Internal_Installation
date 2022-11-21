@@ -15,4 +15,4 @@ https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
 </br>J2.1 - 3.3V/5.0V Port Detection Sense Signal
 </br>J2.2 - GND
 </br>*** 5.0V Consoles only!!! 
-</br>*** Bridge J2 & J2.1 with a 200kΩ 0805 SMD Resistor to create voltage divider to output 3.3V sense signal to ESP32
+</br>*** Bridge J2.1 & J2.2 with a 200kΩ 0805 SMD Resistor to create voltage divider to output 3.3V sense signal to ESP32
