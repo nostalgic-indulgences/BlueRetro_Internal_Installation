@@ -1,4 +1,4 @@
-# BlueRetro_Internal_Installation
+# BlueRetro Internal Installation Guides
 
 Actual implementation videos can be found on the following YouTube channel:-
 https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
