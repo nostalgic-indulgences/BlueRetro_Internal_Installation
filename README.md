@@ -12,7 +12,7 @@ https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
 **@ManCloud Current Trigger Pinout**
 </br>J1.1 - 3.3V/5.0V
 </br>J1.2 - Controller 3.3V/5.0V
-</br>J2.1 - 3.3V/5.0V Port Detection Sense Signal
+</br>J2.1 - 3.3V Port Detection Sense Signal
 </br>J2.2 - GND
 </br>*** 5.0V Consoles only!!! 
 </br>*** Bridge J2.1 & J2.2 with a 200kΩ 0805 SMD Resistor to create voltage divider to output 3.3V sense signal to ESP32
