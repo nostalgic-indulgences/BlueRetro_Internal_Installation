@@ -3,9 +3,9 @@
 Actual implementation videos can be found on the following YouTube channel:-
 https://www.youtube.com/channel/UCARW91mtPx1urqnbG9ZfqSQ
 
-</u>Current Trigger for Port Detection
+## Current Trigger Component Listing for Port Detection
 
-**@ManCloud Current Trigger Component Listing**
+**@ManCloud Current Trigger Components**
 </br>R1 - 4.7kΩ 0805 SMD Resistor
 </br>R2 - 100kΩ 0805 SMD Resistor
 </br>Q1 - YJS2301A SOT-23-6 DUAL P-Channel MOSFET (Lowest forward voltage drop I could find)
